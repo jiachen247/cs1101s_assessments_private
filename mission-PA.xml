@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<CONTENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<!-- ***********************************************************************
+**** MISSION PA
+************************************************************************ -->
+
+<TASK
+    coverimage="https://www.comp.nus.edu.sg/%7Ecs1101s/images/top_of_the_world.jpg"
+    kind="mission"
+    number="PA"
+    startdate="2019-04-16T19:00:00+08"
+    duedate="2019-04-16T22:30:00+08"
+    title="Practical Assessment"
+    story=""
+>
+
+<READING>
+    no readings
+</READING>
+
+<WEBSUMMARY>
+    PA1
+</WEBSUMMARY>
+
+<TEXT>
+    ebdjxdk;ncdc
+</TEXT>
+
+
+<PROBLEMS>
+
+    <PROBLEM maxgrade="20" maxxp="0" type="programming">
+        <TEXT>
+        Question 1
+        </TEXT>
+
+        <SNIPPET>
+            <TEMPLATE>
+            // Question 1 template
+            </TEMPLATE>
+
+            <SOLUTION>
+            </SOLUTION>
+
+            <GRADER>
+                true;
+            </GRADER>
+        </SNIPPET>
+    </PROBLEM>
+
+
+
+
+    <PROBLEM maxgrade="12" maxxp="0" type="programming">
+        <TEXT>
+            Question 2
+        </TEXT>
+
+        <SNIPPET>
+            <TEMPLATE>
+                // Template
+            </TEMPLATE>
+
+            <SOLUTION>
+            </SOLUTION>
+
+            <GRADER>
+                true;
+            </GRADER>
+        </SNIPPET>
+    </PROBLEM>
+
+
+
+
+    <PROBLEM maxgrade="18" maxxp="0" type="programming">
+        <TEXT>
+            Question 3
+        </TEXT>
+
+        <SNIPPET>
+            <TEMPLATE>
+                // QUESTION 3
+            </TEMPLATE>
+
+            <SOLUTION>
+            </SOLUTION>
+
+            <GRADER>
+                true;
+            </GRADER>
+        </SNIPPET>
+    </PROBLEM>
+
+</PROBLEMS>
+
+
+
+<TEXT>
+</TEXT>
+
+
+<DEPLOYMENT interpreter="3">
+</DEPLOYMENT>
+
+<GRADERDEPLOYMENT interpreter="3">
+</GRADERDEPLOYMENT>
+
+</TASK>
+</CONTENT>
